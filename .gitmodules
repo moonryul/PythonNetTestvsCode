@@ -1,0 +1,3 @@
+[submodule "gesticulator"]
+	path = gesticulator
+	url = https://github.com/moonryul/gesticulator.git

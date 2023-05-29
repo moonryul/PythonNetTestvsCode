@@ -58,9 +58,9 @@ public class Program   : MonoBehaviour
                   PythonEngine.PythonPath,
                      Path.Combine(PYTHON_HOME, @"Lib\site-packages"), 
                  
-                      @"D:\Dropbox\metaverse\gesticulator",  // the root folder itself  under which demo package resides; demo package has demo.py module
-                      @"D:\Dropbox\metaverse\gesticulator\gesticulator",
-                       @"D:\Dropbox\metaverse\gesticulator\gesticulator\visualization"
+                      @"C:\Users\moon\PythonNetTestvsCode\gesticulator",  // the root folder itself  under which demo package resides; demo package has demo.py module
+                      @"C:\Users\moon\PythonNetTestvsCode\gesticulator\gesticulator",
+                       @"C:\Users\moon\PythonNetTestvsCode\gesticulator\gesticulator\visualization"
                     
                 }
             );
